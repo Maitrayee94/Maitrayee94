@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my digital playground where I sprinkle magic lines of code to unlock the wonders of Web3. You can call me MD😄, a blockchain sorcerer with a knack for Solidity spells and decentralized wizardry.🧙‍♂️
+Welcome to my digital playground where I sprinkle magic lines of code to unlock the wonders of Web3. You can call me **MD**😄, a blockchain sorcerer with a knack for Solidity spells and _decentralized wizardry_**.🧙‍♂️
 
 In this mystical realm, I wield the power of blockchain protocols like Ethereum, Binance Smart Chain, and more. With my trusty keyboard as my wand, I cast spells to craft smart contracts that bring enchanting decentralized applications to life.
 
