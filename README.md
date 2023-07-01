@@ -35,6 +35,6 @@ So, if you're ready to embark on a thrilling blockchain adventure, let's join fo
 
 Remember, with great power comes great blockchain responsibility. So, let's cast away the old world and conjure a decentralized future that will make Gandalf jealous.
 
-**_Abracadabra-crypto-magical!_**✨🔮
+**_Abracadabra_**-**_crypto_**-**_magical_**!✨🔮
 
 P.S. Did you know that a blockchain developer's favorite spell is "AbraKadabraBlocka"? It makes bugs disappear faster than you can say "Decentralized Wizardry"!🐰💥
