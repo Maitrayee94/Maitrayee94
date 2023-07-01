@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **Maitrayee94/Maitrayee94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Greetings, fellow blockchain adventurers! Welcome to my digital playground where I sprinkle magic lines of code to unlock the wonders of Web3. You can call me MD😄, a blockchain sorcerer with a knack for Solidity spells and decentralized wizardry.🧙‍♂️
+Welcome to my digital playground where I sprinkle magic lines of code to unlock the wonders of Web3. You can call me MD😄, a blockchain sorcerer with a knack for Solidity spells and decentralized wizardry.🧙‍♂️
 
 In this mystical realm, I wield the power of blockchain protocols like Ethereum, Binance Smart Chain, and more. With my trusty keyboard as my wand, I cast spells to craft smart contracts that bring enchanting decentralized applications to life.
 
