@@ -26,9 +26,9 @@ When I'm not chanting code mantras, you can find me exploring the magical realms
 
 So, if you're ready to embark on a thrilling blockchain adventure, let's join forces and bring digital sorcery to the masses. Together, we'll revolutionize industries, leaving a trail of blockchain spells that will make even Merlin himself raise an eyebrow in awe.
 
-🌐 Connect with me on linkdin: [(https://www.linkedin.com/in/maitrayee-das/)]
-📧 Send a raven to: maitrayeeda94@gmail.com
-💬 Read my article on medium: [(https://medium.com/@mdthetechwomen)]
+🌐 Connect with me on linkdin: [(https://www.linkedin.com/in/maitrayee-das/)] <br />
+📧 Send a raven to: maitrayeeda94@gmail.com <br />
+💬 Read my article on medium: [(https://medium.com/@mdthetechwomen)] <br />
 ✨ Let's wave our wands and unravel the true power of blockchain magic!
 
 Remember, with great power comes great blockchain responsibility. So, let's cast away the old world and conjure a decentralized future that will make Gandalf jealous.
